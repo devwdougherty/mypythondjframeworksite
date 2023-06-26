@@ -49,7 +49,12 @@ To check the tables
 
 ## Django Admin
 
+Create the super user
+```
+$ python manage.py createsuperuser
+```
 
+- willianbarbosa / devwdougherty@outlook.com
 
 ## Technical Workflows
 
